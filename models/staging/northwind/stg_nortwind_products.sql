@@ -6,7 +6,7 @@ with
             cast(supplierid as integer) as supplierid,
             cast(categoryid as integer) as categoryid,
             cast(quantityperunit as string) as quantityperunit,
-            cast(unitprice as integer) as unitprice,
+            cast(unitprice as float) as unitprice,
             cast(unitsinstock as integer) as unitsinstock,
             cast(unitsonorder as integer) as unitsonorder,
             cast(reorderlevel as integer) as reorderlevel,
