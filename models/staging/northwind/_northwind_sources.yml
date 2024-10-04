@@ -10,4 +10,13 @@ sources:
         description: tabela order
       - name: product
         description: tabela de produtos
-       
+      - name: CATEGORY
+        description: tabela de categoria do produto
+      - name: CUSTOMER
+        description: tabela de clientes
+      - name: EMPLOYEE
+        description: tabela de funcionarios
+      - name: EMPLOYEETERRITORY
+        description: tabela de território do funcionario
+
+     
