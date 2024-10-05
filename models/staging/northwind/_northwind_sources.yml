@@ -18,5 +18,15 @@ sources:
         description: tabela de funcionarios
       - name: EMPLOYEETERRITORY
         description: tabela de território do funcionario
+      - name: ORDERDETAIL
+        description: tabela de detalhe do pedido
+      - name: REGION
+        description: tabela de região
+      - name: SHIPPER
+        description: tabela das transportadoras
+      - name: TERRITORY
+        description: tabela de territorio de vendas
+      - name: SUPPLIER
+        description: tabela de fornecedores
 
      
