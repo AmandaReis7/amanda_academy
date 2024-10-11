@@ -1,0 +1,32 @@
+version: 1
+
+sources:
+  - name: northwind
+    description: Vendas da Northwind.
+    database: FEA24_9
+    schema: raw_northwind
+    tables:
+      - name: _ORDER_
+        description: tabela order
+      - name: product
+        description: tabela de produtos
+      - name: CATEGORY
+        description: tabela de categoria do produto
+      - name: CUSTOMER
+        description: tabela de clientes
+      - name: EMPLOYEE
+        description: tabela de funcionarios
+      - name: EMPLOYEETERRITORY
+        description: tabela de território do funcionario
+      - name: ORDERDETAIL
+        description: tabela de detalhe do pedido
+      - name: REGION
+        description: tabela de região
+      - name: SHIPPER
+        description: tabela das transportadoras
+      - name: TERRITORY
+        description: tabela de territorio de vendas
+      - name: SUPPLIER
+        description: tabela de fornecedores
+
+     
